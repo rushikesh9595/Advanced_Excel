@@ -1,7 +1,7 @@
 # Advanced_Excel
 Ohhh! This repository is just a start of my conscious efforts towards becoming a **Data Analyst** or **Data Scientist**.  This repository is a proof of my Advanced Excel skills including but not limited to Logical, Statistical, and Pre-Visualization/Pivot-Table calculations.
 
-Functions and Formulas used during practice:
+**Functions** and **Formulas** used during practice:
 
 1. **SUMIFS**:
 Practice sheet demonstrating the application of SUMIFS function for conditional summing based on multiple criteria.
